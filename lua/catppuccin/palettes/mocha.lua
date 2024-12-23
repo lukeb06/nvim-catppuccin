@@ -26,5 +26,5 @@ return {
 	mantle = "#1e1e2e",
 	-- mantle = "#181825",
 	-- crust = "#1e1e2e",
-	crust = "#11111b",
+	crust = "#181825",
 }
